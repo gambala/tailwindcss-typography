@@ -33,10 +33,10 @@ module.exports = (theme) => ({
         'ol[type="a"]': {
           '--list-counter-style': 'lower-alpha',
         },
-        'ol[type="A" s]': {
+        'ol[type="A"]': {
           '--list-counter-style': 'upper-alpha',
         },
-        'ol[type="a" s]': {
+        'ol[type="a"]': {
           '--list-counter-style': 'lower-alpha',
         },
         'ol[type="I"]': {
@@ -45,10 +45,10 @@ module.exports = (theme) => ({
         'ol[type="i"]': {
           '--list-counter-style': 'lower-roman',
         },
-        'ol[type="I" s]': {
+        'ol[type="I"]': {
           '--list-counter-style': 'upper-roman',
         },
-        'ol[type="i" s]': {
+        'ol[type="i"]': {
           '--list-counter-style': 'lower-roman',
         },
         'ol[type="1"]': {
